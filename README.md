@@ -1,8 +1,7 @@
 ### kenneth2001
 
-- 🔭 I’m currently working on JavaScript
-- 📖 I'm currently studying computer science at CUHK
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Deep Learning
+- 📖 I'm currently studying MSc in Computing (Artificial Intelligence and Machine Learning) at Imperial College London
 - 📫 How to reach me: yeekiiiiii@protonmail.com
 
 <img src="https://badges.peiyuan.ch/leetcode/kenneth2001/name">
